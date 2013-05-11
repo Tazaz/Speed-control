@@ -4,6 +4,7 @@ import urllib2
 import cookielib
 import re
 import json
+import transmissionrpc
 from configobj import ConfigObj
 configfile = 'Speed-control.ini'
 config = ConfigObj(configfile)
