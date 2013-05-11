@@ -1,6 +1,8 @@
 Speed-control
 =============
 
+not working yet
+
 Speed-control is a python tool to control multiple download clients
 
 support clients
